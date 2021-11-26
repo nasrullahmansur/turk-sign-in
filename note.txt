@@ -1,0 +1,17 @@
+Sign Up Pages Links
+
+https://divinecoder.com/html/fleeti/sign-up/sign-in.html
+https://divinecoder.com/html/fleeti/sign-up/sign-in-ar.html
+
+https://divinecoder.com/html/fleeti/sign-up/reset-password.html
+https://divinecoder.com/html/fleeti/sign-up/reset-password-ar.html
+
+https://divinecoder.com/html/fleeti/sign-up/reset-password-by-phone.html
+https://divinecoder.com/html/fleeti/sign-up/reset-password-by-phone-ar.html
+
+https://divinecoder.com/html/fleeti/sign-up/reset-password-request.html
+https://divinecoder.com/html/fleeti/sign-up/reset-password-request-ar.html
+
+https://divinecoder.com/html/fleeti/sign-up/otp-varify.html
+https://divinecoder.com/html/fleeti/sign-up/otp-varify-ar.html
+

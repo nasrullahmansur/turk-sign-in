@@ -38,6 +38,10 @@
             border-radius: 8px;
             justify-content: center;
             align-items: center;
+
+            &.bordered-dark {
+                border-color: #E5E5EA;
+            }
             
             i {
                 color: $black;

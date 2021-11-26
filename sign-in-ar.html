@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
-<body>
+<body class="rtl">
 
     <!-- Header start -->
     <header class="header bg-white">
@@ -41,15 +41,15 @@
                     </a>
                     <div class="account-btn">
                         <div class="custom-btn-bg">
-                            <span>Join us</span>
+                            <span>انضم الينا</span>
                             <div class="sub-menu">
                                 <a href="#">
                                     <i class="las la-user"></i>
-                                    <span>Client</span>
+                                    <span>زبون</span>
                                 </a>
                                 <a href="#">
                                     <i class="las la-truck"></i>
-                                    <span>Transporter</span>
+                                    <span>الناقل</span>
                                 </a>
                             </div>
                         </div>
@@ -62,41 +62,37 @@
 
     <!-- Sign in content start -->
     <main class="sign-in">
-        <div class="notification">
-            <div class="container">
-                <div class="notification-content">
-                    <i class="las la-check-circle"></i>
-                    <p>We have send your verification code to your phone number!</p>
-                    <span class="close-btn">
-                        <i class="las la-times"></i>
-                    </span>
-                </div>
-            </div>
-        </div>
         <section class="content">
             <div class="title">
-                <h1>Verify Phone Number</h1>
-                <p>Enter the code sent to your phone number to verify it.</p>
+                <h1>تسجيل الدخول</h1>
             </div>
             <form>
-                
-                <div class="otp-verify">
-                    <input type="text">
-                    <input type="text">
-                    <input type="text">
-                    <input type="text">
+                <div class="input-item">
+                    <label for="email">البريد الالكتروني</label>
+                    <input class="has-icon" type="email" id="email" placeholder="mahmoud.sami@fleeti.com">
+                    <img src="assets/images/envelope.svg" alt="icon">
+                </div>
+                <div class="input-item">
+                    <label for="password">كملة المرور</label>
+                    <input class="has-icon" type="password" id="password" placeholder="************">
+                    <img src="assets/images/lock.svg" alt="icon">
+                    <i class="fas fa-eye-slash"></i>
+                </div>
+                <div class="input-item checkbox">
+                    <input id="remember" type="checkbox">
+                    <label for="remember">تذكرني</label>
                 </div>
                 
-                <div class="btn-area mb-0">
-                    <button type="button">Verify</button>
-                    <a class="show-notification" href="javascript:void(0)">Resend Code</a>
+                <div class="btn-area">
+                    <button type="button">تسجيل الدخول</button>
+                </div>
+                <div class="link-area text-start">
+                    <a href="#">نسيت كلمة المرور؟</a>
                 </div>
             </form>
         </section>
     </main>
     <!-- Sign in content end -->
-
-    
 
     <script src="assets/js/jquery.2.2.4.min.js"></script>
     <script src="assets/js/bootstrap.bundle.min.js"></script>
