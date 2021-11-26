@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5115" data-name="Rectangle 5115" width="24" height="24" transform="translate(372 548)" fill="#8e8e93"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_55" data-name="Mask Group 55" transform="translate(-372 -548)" clip-path="url(#clip-path)">
+    <g id="lock-open-duotone" transform="translate(372 548)">
+      <rect id="Rectangle_5118" data-name="Rectangle 5118" width="24" height="24" fill="none"/>
+      <rect id="Rectangle_5119" data-name="Rectangle 5119" width="16.5" height="12" rx="0.75" transform="translate(3.75 8.25)" fill="#8e8e93" opacity="0.2"/>
+      <rect id="Rectangle_5120" data-name="Rectangle 5120" width="16.5" height="12" rx="0.75" transform="translate(3.75 8.25)" fill="none" stroke="#8e8e93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_9427" data-name="Path 9427" d="M8.625,8.25V4.875a3.375,3.375,0,0,1,6.75,0" fill="none" stroke="#8e8e93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <circle id="Ellipse_236" data-name="Ellipse 236" cx="1.125" cy="1.125" r="1.125" transform="translate(10.875 13.125)" fill="#8e8e93"/>
+    </g>
+  </g>
+</svg>
